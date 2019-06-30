@@ -111,6 +111,10 @@ typings/
 # .idea directories
 .idea
 
-#build
+# build
 dist
 /elb.zip
+
+# deploy
+docker-compose-production.yml
+docker-compose.yml

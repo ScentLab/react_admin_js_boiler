@@ -1,3 +1,3 @@
-#studit_admin
+#react_admin_js_boiler
 
-studit_admin
+react_admin_js_boiler

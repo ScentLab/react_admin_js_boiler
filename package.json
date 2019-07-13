@@ -10,7 +10,7 @@
     "babel-polyfill": "^6.26.0",
     "classnames": "^2.2.6",
     "history": "^4.7.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "prop-types": "^15.6.2",
     "ra-core": "^2.7.2",
     "ra-input-rich-text": "^2.7.1",
